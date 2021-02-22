@@ -22,5 +22,5 @@ Username: su
 Password: testpass
 ```
 
-When server is running open this adress [http://127.0.0.1:8000/swagger/] to see all user endpoints.
-Also open [http://127.0.0.1:8000/redoc/] for documentation.
+When server is running open this adress http://127.0.0.1:8000/swagger/ to see all user endpoints.
+Also open http://127.0.0.1:8000/redoc/ for documentation.
